@@ -42,7 +42,7 @@
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
         <sonar.organization>Afaf-24</sonar.organization>
-        <sonar.projectKey>Afaf-24_JavaAutomaton</sonar.projectKey>
+        <sonar.projectKey>Afaf-24_SharePorteFeuille</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.java.libraries></sonar.java.libraries>
     </properties>
