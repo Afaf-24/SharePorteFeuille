@@ -9,7 +9,7 @@ import java.util.HashMap;
 /**
  *
  * les actions simples sont des actions !
- *   heritage --> donc (i) concretiser la methode abstraire 'valeur'
+ *   heritage: donc (i) concretiser la methode abstraire 'valeur'
  *                  et (ii) def d'un constructeur cohérent avec le constructeur 
  *                                   parent
  */
